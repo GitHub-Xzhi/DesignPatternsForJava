@@ -2,18 +2,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
-    <artifactId>java-design-patterns</artifactId>
+    <artifactId>behavioral-pattern</artifactId>
     <groupId>org.xzhi</groupId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>behavioral-pattern</artifactId>
+  <artifactId>bp-1-strategy</artifactId>
   <packaging>pom</packaging>
-  <description>行为型模式</description>
+  <description>策略模式</description>
 
   <modules>
-    <module>bp-1-strategy</module>
   </modules>
-
 </project>
